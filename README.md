@@ -6,7 +6,7 @@ A vibe-coded F1 race tracker web app built with SvelteKit that displays race sch
 
 - **Season Selection**: Browse F1 races by year (2023-2026)
 - **Race Calendar**: View all Grand Prix with circuit information
-- **Session Results**: Track race, qualifying, and practice session results
+- **Session Results**: Track race and sprint races results
 - **Stint Visualization**: See tire compound usage throughout each race
 - **Persistent State**: Selected season is saved in localStorage
 - **Caching**: Data is cached in memory to avoid redundant API calls
